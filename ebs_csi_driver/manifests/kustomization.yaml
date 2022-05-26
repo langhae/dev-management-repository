@@ -1,0 +1,4 @@
+resources:
+- pod.yaml
+- claim.yaml
+- storageclass.yaml
